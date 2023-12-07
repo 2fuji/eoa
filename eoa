@@ -1,5 +1,5 @@
 {
-  "name": "eota",
+  "name": "eoa",
   "description": "kento's end of evangelion theme",
   "authors": [
     {
@@ -45,7 +45,7 @@
     "#0d071f"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#0CFF00"
+    "#0d071f"
     ],
     "BACKGROUND_TERTIARY": [
     "#090111"
