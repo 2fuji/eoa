@@ -1,5 +1,5 @@
 {
-  "name": "eoa",
+  "name": "eoaa",
   "description": "kento's end of evangelion theme",
   "authors": [
     {
@@ -42,7 +42,7 @@
     "#0d071f"
     ],
     "BACKGROUND_SECONDARY": [
-    "#090111"
+    "#0d071f"
     ],
     "BACKGROUND_SECONDARY_ALT": [
     "#0d071f"
@@ -102,7 +102,7 @@
     "#191724"
     ],
     "CARD_SECONDARY_BG": [
-    "#090111"
+    "#0d071f"
     ]
   },
   "rawColors": {
