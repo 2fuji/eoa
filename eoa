@@ -1,5 +1,5 @@
 {
-  "name": "eoaa",
+  "name": "eota",
   "description": "kento's end of evangelion theme",
   "authors": [
     {
@@ -45,10 +45,10 @@
     "#0d071f"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#0d071f"
+    "#0CFF00"
     ],
     "BACKGROUND_TERTIARY": [
-    "#0d071f"
+    "#090111"
     ],
     "CHANNEL_ICON": [
     "#908caa"
@@ -57,7 +57,7 @@
     "#908caa"
     ],
     "CHAT_BACKGROUND": [
-    "#0d071f"
+    "#090111"
     ],
     "HEADER_PRIMARY": [
     "#e0def4"
@@ -102,7 +102,7 @@
     "#191724"
     ],
     "CARD_SECONDARY_BG": [
-    "#0d071f"
+    "#090111"
     ]
   },
   "rawColors": {
