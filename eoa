@@ -1,6 +1,6 @@
 {
-  "name": "eo",
-  "description": "kento's end of evangelion- theme",
+  "name": "eoa",
+  "description": "kento's end of evangelion theme",
   "authors": [
     {
       "name": "kento",
@@ -21,13 +21,13 @@
     "#0d071f"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-    "#2a282c"
+    "#090111"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#2a282c"
+    "#090111"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-    "#2a282c"
+    "#090111"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
     "#0d071f"
@@ -42,10 +42,10 @@
     "#0d071f"
     ],
     "BACKGROUND_SECONDARY": [
-    "#2a282c"
+    "#090111"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#2a282c"
+    "#1e1e1e"
     ],
     "BACKGROUND_TERTIARY": [
     "#0d071f"
@@ -102,7 +102,7 @@
     "#191724"
     ],
     "CARD_SECONDARY_BG": [
-    "#2a282c"
+    "#1e1e1e"
     ]
   },
   "rawColors": {
@@ -144,7 +144,7 @@
     "PRIMARY_400": "#ebbcba",
     "PRIMARY_460": "#000000",
     "PRIMARY_500": "#908caa",
-    "PRIMARY_600": "#000000",
+    "PRIMARY_600": "#00000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_660": "#000000",
     "PRIMARY_700": "#000000",
@@ -210,6 +210,6 @@
   },
     "background": {
         "blur": 0,
-        "url": "https://i.imgur.com/2wPpNZx.jpg",
+        "url": "https://i.imgur.com/xqUfrM8.jpg",
         "alpha": 1
     }}
