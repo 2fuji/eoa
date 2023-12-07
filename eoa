@@ -45,7 +45,7 @@
     "#090111"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#1e1e1e"
+    "#090111"
     ],
     "BACKGROUND_TERTIARY": [
     "#0d071f"
@@ -57,7 +57,7 @@
     "#908caa"
     ],
     "CHAT_BACKGROUND": [
-    "#1e1e1e"
+    "#090111"
     ],
     "HEADER_PRIMARY": [
     "#e0def4"
@@ -102,7 +102,7 @@
     "#191724"
     ],
     "CARD_SECONDARY_BG": [
-    "#1e1e1e"
+    "#090111"
     ]
   },
   "rawColors": {
